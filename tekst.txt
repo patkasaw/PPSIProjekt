@@ -1,0 +1,15 @@
+Python realizuje jednocześnie kilka paradygmatów. Podobnie do C++, a w 
+przeciwieństwie do Smalltalka nie wymusza jednego stylu programowania, 
+pozwalając na stosowanie różnych. W Pythonie możliwe jest programowanie 
+obiektowe, programowanie strukturalne i programowanie funkcyjne. Typy 
+sprawdzane są dynamicznie, a do zarządzania pamięcią stosuje się garbage 
+collection.
+
+Choć w jego popularyzacji kładzie się nacisk na różnice w stosunku do 
+Perla, Python jest pod wieloma względami do niego podobny. Jednakże 
+projektanci Pythona odrzucili złożoną składnię Perla na rzecz bardziej 
+oszczędnej i – ich zdaniem – bardziej czytelnej. Mimo że podobnie do 
+Perla, Python jest czasem klasyfikowany jako język skryptowy, 
+wykorzystuje się go do tworzenia dużych projektów jak serwer aplikacji 
+Zope, system wymiany plików Mojo Nation, czy nawet oprogramowanie klasy 
+ERP – Odoo.
